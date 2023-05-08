@@ -4,7 +4,7 @@
 
 In the folder 'Credit_Risk' you will find:
 
- - '**credit_risk_classification.ipynb**' - contains the two logistic regression models.
+ - '**credit_risk_classification.ipynb**' - contains two logistic regression models to identify the creditworthiness of borrowers.
 
   - '**report.md**' - a write up of the analysis.
 
