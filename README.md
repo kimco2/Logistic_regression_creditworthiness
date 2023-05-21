@@ -1,4 +1,4 @@
-# Logistic Regression credit risk classification
+# Logistic regression credit risk classification
 
 ## **Overview**
  Logistic regression was used to develop a model based on loan risk, to identify the creditworthiness of borrowers, whether they are healthy or high risk.
